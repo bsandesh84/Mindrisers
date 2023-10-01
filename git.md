@@ -12,8 +12,11 @@
 2. git add
     - git add score.html  //  individual file 
     - git add . // all files at once
-3. git commit -m "hint/message"
-4. git push
+
+3.  git push --set-upstream origin master(first time only process.)
+
+4. git commit -m "hint/message"
+5. git push
 
 
 
