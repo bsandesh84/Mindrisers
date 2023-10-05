@@ -18,5 +18,13 @@
 4. git commit -m "hint/message"
 5. git push
 
+<!-- To clone -->
+ 6. git clone https://github.com/sagartmg2/bhadra-2
 
+ <!-- To Pull next Time -->
+ 7. git fetch (shows information between online and local)
+ 8. git pull(to pull new updated content) 
 
+9.git branch (to check in which branch we located)
+10. git checkout -b layout(on local repo not online.)
+11. git push origin layout(to push to new branch called layout)
