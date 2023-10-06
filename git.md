@@ -25,6 +25,10 @@
  7. git fetch (shows information between online and local)
  8. git pull(to pull new updated content) 
 
-9.git branch (to check in which branch we located)
-10. git checkout -b layout(on local repo not online.)
-11. git push origin layout(to push to new branch called layout)
+<!-- To create branches -->
+9.  git branch (to check in which branch we located)
+10. git checkout -b layout( to create new branch on local repo not online).
+11. git push origin layout(to push to new branch called layout on github).
+12. git checkout branchname (to switch branches)
+13. git branch -r (to check remote branch). 
+14. git fetch (to sync the branches if not shown not codes).
