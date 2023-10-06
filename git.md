@@ -12,9 +12,6 @@
 2. git add
     - git add score.html  //  individual file 
     - git add . // all files at once
-
-  <!--   git push --set-upstream origin master(first time only process.) -->
-
 4. git commit -m "hint/message"
 5. git push
 
@@ -35,3 +32,7 @@
 
     <!-- Note -->
 15. cannot switch branches without commiting the changes first.
+
+   <!-- Merge -->
+   
+16.   
