@@ -30,9 +30,14 @@
 13. git branch -r (to check remote branch). 
 14. git fetch (to sync the branches if not shown not codes).
 
+    <!-- Deleting a branch -->
+15. git branch -d branch-name(to delete a branch locally)
+16. git push origin --delete branch-name(to delete a branch form the github).
+
     <!-- Note -->
-15. cannot switch branches without commiting the changes first.
+17. cannot switch branches without commiting the changes first.
+18. New branch will have codes of its parent .
 
    <!-- Merge -->
-   
-16.   
+
+19.   
